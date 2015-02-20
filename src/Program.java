@@ -23,6 +23,9 @@
  * - Added Program class with main method.
  * - Finished the program.
  * - Finished internal documentation.
+ * 
+ * v1.1:
+ * - Fixed missing comments.
  */
 public class Program 
 {

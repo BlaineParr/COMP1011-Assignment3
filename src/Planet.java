@@ -131,6 +131,10 @@ public abstract class Planet
 	} //constructor ends
 	
 	//Overridden Methods/////////////////////////////////////////////////////////////////////////
+	/**
+	 * This method returns information about the planet.
+	 * @return the planet's name, diameter and mass.
+	 */
 	public String toString()
 	{
 		//local variable to hold the planet's info
