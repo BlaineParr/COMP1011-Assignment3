@@ -3,7 +3,7 @@
  * finish this class.
  * 
  * @author Blaine Parr
- * @version February 19, 2015
+ * @version February 20, 2015
  */
 public abstract class Planet 
 {
