@@ -1,5 +1,5 @@
 /**
- * This class...
+ * This class is extended from the Planet superclass. It is used to create Terrestrial planets.
  * 
  * @author Blaine Parr
  * @version February 20, 2015

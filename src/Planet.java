@@ -136,7 +136,7 @@ public abstract class Planet
 		//local variable to hold the planet's info
 		String planetInfo = "Name: " + getName()
 				+ "\nDiameter: " + getDiameter()
-				+ "\nMass: " + getMass();
+				+ "\nMass: " + getMass() + "\n";
 		return planetInfo;
 	} //method toString ends
 } //class Planet ends
